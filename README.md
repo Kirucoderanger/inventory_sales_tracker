@@ -32,21 +32,16 @@ Prerequisites
 Ensure you have Python 3 installed.
 Install dependencies:
 
-bash
-Copy
-Edit
+
+
 pip install reportlab
 Run the Application
-bash
-Copy
-Edit
+
 python app.py
 Replace app.py with your actual main file name if different.
 
 📁 Project Structure
-java
-Copy
-Edit
+
 inventory-tracker/
 ├── app.py
 ├── database/
@@ -60,7 +55,8 @@ inventory-tracker/
 │   └── report.csv
 └── README.md
 📸 Screenshots
-Add screenshots here to demonstrate key features and UI (optional but recommended).
+![Inventory_Sales_tracker](https://github.com/user-attachments/assets/2cfc3320-bb7d-409f-8bba-2962c3b3d629)
+
 
 💡 Future Improvements
 Authentication for secure access
